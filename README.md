@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felipe Lauria</h1>
-<h3 align="center">👨‍💻 A passionate backend developer from Brazil 💚</h3><br><br>
+<h3 align="center">👨‍💻 A passionate frontend developer from Brazil 💚</h3><br><br>
 
 ## About Me
 
 👩‍💻 I currently work at EduCat
 
-🧠 Getting better at Python and learning Django
+🧠 Getting better at TypeScript and React
 
 📓 Studying Mobile Languages Kotlin and Swift
 
